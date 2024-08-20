@@ -3,7 +3,7 @@ timeout = "1200s"
 # your website url
 baseURL = 'https://y2k.fashion'
 # website title
-title = 'Y2K Fashion'
+title = '✦ Y2K Fashion ✦'
 # don't touch this
 disableKinds = ["section", "taxonomy", "term", "home"]
 # robots.txt
@@ -19,6 +19,12 @@ enableRobotsTXT = true
 # * ja (powered by Noto Sans JP)
 # * ko (powered by Noto Sans KR)
 defaultContentLanguage = 'en'
+
+[sitemap]
+changeFreq = ''
+disable = false
+filename = 'sitemap.xml'
+priority = -1
 
 # theme as module
 [module]

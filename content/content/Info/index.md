@@ -4,7 +4,7 @@ layout: single
 url: /Info/
 menu:
   main:
-    weight: 4
+    weight: 2
     identifier: Info
     title: Info
 unifiedAlt: ''
@@ -12,14 +12,7 @@ _build:
   publishResources: false
 ---
 
-Bridget is a _minimal_ Hugo theme designed for photographers/visual artists, powered by <u>[Solid.js](https://www.solidjs.com)</u>.
+Dive into the nostalgic vibes of the early 2000s with our curated Y2K fashion moodboards. Explore a world where bold meets playful, and where every outfit tells a story of a bygone era, revived for today. Get inspired by the trends that defined a generation, and find your unique Y2K style.
 
-The inspiration for this theme came from a video by <u>[Hyperlexed](https://www.youtube.com/@Hyperplexed)</u>, which can be found <u>[here](https://www.youtube.com/watch?v=Jt3A2lNN2aE)</u>. Initially, it was developed using no third-party dependencies. However, after website designer <u>[Tyler McRobert](https://tylermcrobert.com)</u> made the source code publicly available, I realized that I have invented many unnecessary wheels, and this project was modified to porting the original design to Hugo while focusing on _performance_.
+Designs made with <u>[ideate.xyz](https://ideate.xyz/)</u>
 
-Once again, great shout out to <u>[Tyler McRobert](https://tylermcrobert.com)</u> for his inspiration to this project.
-
-[GitHub Repo ↗](https://github.com/Sped0n/bridget)
-
-Original site design by <u>[Tyler McRobert](https://tylermcrobert.com)</u>.
-
-&copy; {{< year >}} <u>[Spedon](https://github.com/Sped0n)</u> | Built with Hugo
